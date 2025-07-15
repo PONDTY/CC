@@ -12,6 +12,6 @@
  cd ../bin
  rm -rf add-ip edit-miner run-miner update backup restore
  cd
- cd CCMINER-GITHUB
+ cd CC
  chmod +x setupdate.sh
  sh setupdate.sh
